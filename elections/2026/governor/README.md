@@ -1,3 +1,5 @@
+[About this archive](../../../README.md)
+
 # 2026 Vermont Gubernatorial Race
 
 ## Democratic Primary — August 11, 2026
