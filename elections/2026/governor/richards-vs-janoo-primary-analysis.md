@@ -4,7 +4,7 @@
 
 The August 11, 2026 Democratic primary for Governor of Vermont presents voters with a choice between two candidates who, while sharing broad progressive goals, diverge meaningfully in ideology, approach, and depth of alignment with left-wing political traditions. With incumbent Republican Governor Phil Scott seeking re-election amid declining approval ratings, the Democratic nominee will enter the general election with a competitive advantage in one of the most left-leaning states in the country. Understanding the distinctions between Aly Richards and Amanda Janoo — their backgrounds, policy platforms, and relationships to broader political movements — is essential for voters, organizers, and political observers ahead of the primary.
 
-This analysis draws on campaign websites, news coverage, candidate forums, and social media communications to provide a comprehensive side-by-side comparison. It further situates each candidate's platform relative to four significant left-wing political organizations: the Democratic Socialists of America (DSA), Social Democrats of America (SDA), the Socialist International (SI), and Social Democrats USA (SDUSA).
+This analysis draws on campaign websites, news coverage, candidate forums, and social media communications to provide a comprehensive side-by-side comparison. Since Democratic Socialism is in the news nationwide, this comparison further situates each candidate's platform relative to four significant democratic socialist political organizations: the Democratic Socialists of America (DSA), Social Democrats of America (SDA), the Socialist International (SI), and Social Democrats USA (SDUSA).
 
 ---
 
