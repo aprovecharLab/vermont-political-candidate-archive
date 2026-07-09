@@ -1,1 +1,1 @@
-This folder contains summaries of polital parties and orgainization platforms referenced across analyses.
+This folder contains summaries of political parties and organization platforms referenced across analyses.
