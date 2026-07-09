@@ -76,7 +76,7 @@ Janoo takes a significantly more activist and confrontational stance. Her campai
 
 ---
 
-## Alignment with Left-Wing Political Organizations
+## Alignment with Social Democracy Political Organizations
 
 This analysis examines policy overlaps, not formal endorsements or memberships. Neither candidate appears to have declared formal affiliation with any of these organizations. All four are assessed based on their published platforms and public statements as of July 2026.
 
