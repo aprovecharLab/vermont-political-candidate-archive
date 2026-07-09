@@ -28,7 +28,7 @@ This repository exists to provide Vermont voters, journalists, organizers, and r
 
 ## Organizations Referenced
 
-The following left-wing political organizations are referenced in alignment analyses throughout this archive. Platform summaries for each are maintained in the `organizations/` folder.
+The following Social Democracy political organizations are referenced in alignment analyses throughout this archive. Platform summaries for each are maintained in the `organizations/` folder.
 
 | Abbreviation | Full Name | Description |
 |--------------|-----------|-------------|
