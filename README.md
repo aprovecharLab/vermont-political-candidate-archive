@@ -6,16 +6,16 @@ A public archive of candidate positions, platform comparisons, and ideological a
 
 This repository exists to provide Vermont voters, journalists, organizers, and researchers with a centralized, publicly accessible, and version-controlled record of where candidates stand on the issues. All analyses are intended to be factual, sourced, and non-partisan in method — presenting candidates' stated positions accurately and comparing them against the published platforms of relevant political organizations where useful.
 
+## Quick Links
+
+**2026 Election Cycle**
+- [Governor: Richards vs. Janoo Primary Analysis](./elections/2026/governor/richards-vs-janoo-primary-analysis.md)
+
 ## Scope
 
 - **Geographic scope:** State of Vermont — statewide offices (Governor, Lieutenant Governor, Attorney General, Treasurer, Secretary of State, Auditor), State Senate, State House, and selected local races (mayoral, city council, selectboard).
 - **Temporal scope:** Current and future election cycles, with retrospective analyses added where relevant.
 - **Issue scope:** All policy areas addressed by candidates, including but not limited to: housing, healthcare, education, climate and environment, economy and labor, reproductive rights, immigration, criminal justice, taxation, and democratic reform.
-
-## Quick Links
-
-**2026 Election Cycle**
-- [Governor: Richards vs. Janoo Primary Analysis](./elections/2026/governor/richards-vs-janoo-primary-analysis.md)
 
 ## Repository Structure
 
