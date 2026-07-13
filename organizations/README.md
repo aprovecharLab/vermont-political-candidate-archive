@@ -1,3 +1,5 @@
+[About this archive](../README.md)
+
 # Organizations Archive
 
 This folder contains primary-source platform and program documents for five socialist and progressive political organizations, as part of the [Vermont Political Candidate Archive](https://github.com/aprovecharLab/vermont-political-candidate-archive).
