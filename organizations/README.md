@@ -2,6 +2,13 @@
 
 # Organizations Archive
 
+## ⚡ Quick Links
+
+- **[Comparative Analysis →](./comparative_analysis.md)** — Side-by-side comparison of all five organizations (ideology, electoral strategy, foreign policy, public ownership, taxation, housing, criminal justice, education, and historical lineage)
+
+---
+
+
 This folder contains primary-source platform and program documents for five socialist and progressive political organizations, as part of the [Vermont Political Candidate Archive](https://github.com/aprovecharLab/vermont-political-candidate-archive).
 
 ## Documents
