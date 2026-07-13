@@ -11,6 +11,9 @@ This repository exists to provide Vermont voters, journalists, organizers, and r
 **2026 Election Cycle**
 - [Governor: Richards vs. Janoo Primary Analysis](./elections/2026/governor/richards-vs-janoo-primary-analysis.md)
 
+**Organizations Compared**
+ - [Comparative Analysis](./organizations/comparative_analysis.md)
+
 ## Scope
 
 - **Geographic scope:** State of Vermont — statewide offices (Governor, Lieutenant Governor, Attorney General, Treasurer, Secretary of State, Auditor), State Senate, State House, and selected local races (mayoral, city council, selectboard).
