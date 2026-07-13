@@ -12,7 +12,7 @@ This repository exists to provide Vermont voters, journalists, organizers, and r
 - [Governor: Richards vs. Janoo Primary Analysis](./elections/2026/governor/richards-vs-janoo-primary-analysis.md)
 
 **Organizations Compared**
- - [Comparative Analysis](./organizations/comparative_analysis.md)
+ - [Organizations Comparative Analysis](./organizations/comparative_analysis.md)
 
 ## Scope
 
