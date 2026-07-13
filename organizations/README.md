@@ -4,7 +4,7 @@
 
 ## ⚡ Quick Links
 
-- **[Comparative Analysis →](./comparative_analysis.md)** — Side-by-side comparison of all five organizations (ideology, electoral strategy, foreign policy, public ownership, taxation, housing, criminal justice, education, and historical lineage)
+- **[Organizations Comparative Analysis →](./comparative_analysis.md)** — Side-by-side comparison of all five organizations (ideology, electoral strategy, foreign policy, public ownership, taxation, housing, criminal justice, education, and historical lineage)
 
 ---
 
