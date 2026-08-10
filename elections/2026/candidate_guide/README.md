@@ -8,5 +8,5 @@
 
 | Date | Document | Description |
 |------|----------|-------------|
-| August 10, 2026 | [Candidate Guide](./candidate_guide.md) | Primary election  candidate comparison and alignment analysis with DSA, SDA, SDUSA, and Socialist International |
+| August 10, 2026 | [Candidate Guide](./comprehensive_candidate_guide.md) | Primary election  candidate comparison and alignment analysis with DSA, SDA, SDUSA, and Socialist International |
 
