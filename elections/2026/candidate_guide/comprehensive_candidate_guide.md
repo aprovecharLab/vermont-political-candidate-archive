@@ -23,7 +23,7 @@ This document provides a comprehensive breakdown of the 2026 Vermont Democratic 
 | Candidate | Background | Key Platform Priorities |
 |-----------|------------|------------------------|
 | **Esther Charlestin** | First-generation Haitian American, educator, business consultant; chaired Vermont Commission on Women; 2024 Democratic gubernatorial nominee | Sustainable education systems; affordable childcare; Housing First models; zoning reform for density; climate-resilient state; maternal health equity |
-| **Molly Gray** | Former Lt. Governor (2021-2023); former U.S. Senator (appointed 2025); congressional aide; Red Cross volunteer | 802 Homes Catalog continuation; municipal zoning reform; healthcare access expansion; fundamental rights defense; immigration policy opposition |
+| **Molly Gray** | Former Lt. Governor (2021-2023); congressional aide; Red Cross volunteer | 802 Homes Catalog continuation; municipal zoning reform; healthcare access expansion; fundamental rights defense; immigration policy opposition |
 | **Ryan McLaren** | Lifelong Vermonter; former congressional staffer; AmeriCorps alum; school board service | Universal primary care; universal paid family medical leave; affordable housing projects; childcare slot expansion; public advocate role for Lt. Governor office |
 
 **Social Democracy Alignment Summary:**
