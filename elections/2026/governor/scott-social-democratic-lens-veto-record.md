@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Incumbent Republican Governor Phil Scott enters the 2026 general election seeking a sixth term, facing either Aly Richards or Amanda Janoo — both of whom campaigned on platforms with meaningful overlap with social democratic traditions (analyzed in the companion primary document). This analysis extends that same framework to the incumbent, but with a critical methodological difference: rather than assessing campaign platforms, it assesses **revealed governing behavior** — what Governor Scott actively blocked (vetoes), what he allowed to become law while distancing himself from it (let-passes), and the reasons he gave.
+Incumbent Republican Governor Phil Scott enters the 2026 general election seeking a sixth term, facing Amanda Janoo — who campaigned on a platform with meaningful overlap with social democratic traditions (analyzed in the companion primary document). This analysis extends that same framework to the incumbent, but with a critical methodological difference: rather than assessing campaign platforms, it assesses **revealed governing behavior** — what Governor Scott actively blocked (vetoes), what he allowed to become law while distancing himself from it (let-passes), and the reasons he gave.
 
 Between January 2017 and August 2026, Scott vetoed approximately 66 bills and allowed roughly 28 more to become law without his signature, breaking Howard Dean's all-time Vermont veto record in June 2021. His veto reasons cluster around affordability and cost concerns, separation of powers, housing and land use, and environmental and energy policy — each of which intersects directly with core social democratic commitments.
 
