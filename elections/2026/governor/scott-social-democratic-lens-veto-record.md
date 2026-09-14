@@ -83,7 +83,7 @@ Against expectation from a Republican governor, this is where Scott's record con
 - **Statewide use-of-force standards** with de-escalation training mandates (S.119, 2020)
 - **Firearm safe storage, expanded extreme-risk orders, and a 72-hour waiting period** (H.230, 2023) — deferring his constitutional objections to the courts
 - **The ghost gun ban** (S.209, 2024)
-- **H.849** (Act 87, 2026) enabled civil suits against government officials for federal constitutional rights violations. This is permitted, not advocated: Scott allowed it to become law while stating it risked giving Vermonters "false hope" that it would survive court challenges, permitting it only after the Attorney General advised it was defensible. It registers as passive tolerance, not championing — the legislature and AG, not the governor, deserve the credit.
+- **Enabled civil suits against government officials for federal constitutional rights violations** (H.849, Act 87, 2026) . This is permitted, not advocated: Scott allowed it to become law while stating it risked giving Vermonters "false hope" that it would survive court challenges, permitting it only after the Attorney General advised it was defensible. It registers as passive tolerance, not championing — the legislature and AG, not the governor, deserve the credit.
 
 None of the four organizations treat gun regulation as a defining plank, but the civil-liberties and police-accountability dimensions here are consistent with SDUSA's and SI's rights frameworks. This category demonstrates that Scott's let-passes are not reserved for low-stakes bills — he declined to veto genuinely ambitious public-safety legislation at the height of national controversy over each measure.
 
