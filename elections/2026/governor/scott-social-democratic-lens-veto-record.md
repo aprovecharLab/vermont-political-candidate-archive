@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Incumbent Republican Governor Phil Scott enters the 2026 general election seeking a sixth term, facing Amanda Janoo — who campaigned on a platform with meaningful overlap with social democratic traditions (analyzed in the companion primary document). This analysis extends that same framework to the incumbent, but with a critical methodological difference: rather than assessing campaign platforms, it assesses **revealed governing behavior** — what Governor Scott actively blocked (vetoes), what he allowed to become law while distancing himself from it (let-passes), and the reasons he gave.
+Incumbent Republican Governor Phil Scott enters the 2026 general election seeking a sixth term, facing Amanda Janoo — who campaigned on a platform with meaningful overlap with social democratic traditions (as did her primary opponent Ali Richards as was analyzed in the companion primary document). This analysis extends that same framework to the incumbent, but with a critical methodological difference: rather than assessing campaign platforms, it assesses **revealed governing behavior** — what Governor Scott actively blocked (vetoes), what he allowed to become law while distancing himself from it (let-passes), and the reasons he gave.
 
 Between January 2017 and August 2026, Scott vetoed approximately 66 bills and allowed roughly 28 more to become law without his signature, breaking Howard Dean's all-time Vermont veto record in June 2021. His veto reasons cluster around affordability and cost concerns, separation of powers, housing and land use, and environmental and energy policy — each of which intersects directly with core social democratic commitments.
 
@@ -38,7 +38,7 @@ SDUSA describes collective bargaining and a living wage as foundational; the SI 
 
 ### Healthcare
 
-Scott's healthcare record is thinner than his labor record but pointed: he vetoed **reference-based pricing legislation (S.190, 2026)** on the grounds that savings should apply system-wide rather than to a subset of payers, and allowed the **H.849 civil action for constitutional deprivations (2026)** to become law without his signature — a measure with direct relevance to accountability for federal immigration enforcement conduct. Universal publicly-funded healthcare, a plank shared by all four organizations (most centrally DSA and SDUSA), has never been advanced to his desk, so his divergence here is partly inferred rather than demonstrated. His stated S.190 reasoning — system-wide affordability — is compatible in rhetoric with universalist social democratic framing while arriving at an anti-interventionist conclusion.
+Scott's healthcare record is thinner than his labor record but pointed: he vetoed **reference-based pricing legislation (S.190, 2026)** on the grounds that savings should apply system-wide rather than to a subset of payers. Universal publicly-funded healthcare, a plank shared by all four organizations (most centrally DSA and SDUSA), has never been advanced to his desk, so his divergence here is partly inferred rather than demonstrated. His stated S.190 reasoning — system-wide affordability — is compatible in rhetoric with universalist social democratic framing while arriving at an anti-interventionist conclusion.
 
 ### Climate and Environment
 
@@ -83,7 +83,7 @@ Against expectation from a Republican governor, this is where Scott's record con
 - **Statewide use-of-force standards** with de-escalation training mandates (S.119, 2020)
 - **Firearm safe storage, expanded extreme-risk orders, and a 72-hour waiting period** (H.230, 2023) — deferring his constitutional objections to the courts
 - **The ghost gun ban** (S.209, 2024)
-- **H.849**, enabling civil suits against government officials for constitutional violations (2026)
+- **H.849 let-pass (Act 87, 2026)**: Enabled civil suits against government officials for federal constitutional rights violations. This is Tier 3 evidence (permitted, not advocated): Scott allowed it to become law while stating it risked giving Vermonters "false hope" that it would survive court challenges, permitting it only after the Attorney General advised it was defensible. It registers as passive tolerance, not championing — the legislature and AG, not the governor, deserve the credit.
 
 None of the four organizations treat gun regulation as a defining plank, but the civil-liberties and police-accountability dimensions here are consistent with SDUSA's and SI's rights frameworks. This category demonstrates that Scott's let-passes are not reserved for low-stakes bills — he declined to veto genuinely ambitious public-safety legislation at the height of national controversy over each measure.
 
@@ -105,7 +105,7 @@ Across all categories, Scott's most frequently stated veto rationale is structur
 
 ### Socialist International (SI)
 
-**Alignment: Weak.** The SI declaration's core commitments — public ownership and democratic management of key resources, climate justice, participatory democracy, international solidarity — map poorly onto Scott's record. His climate vetoes (including the Global Warming Solutions Act, overridden) contradict the climate-justice plank; his noncitizen-voting vetoes and RCV refusals contradict the participatory-democracy plank; his consistent preference for private, deregulated development over Act 250 protections contradicts any notion of social ownership. His H.849 let-pass — enabling accountability litigation against officials, including in immigration enforcement contexts — is the single clearest behavioral convergence with SI's human-rights framing.
+**Alignment: Weak.** The SI declaration's core commitments — public ownership and democratic management of key resources, climate justice, participatory democracy, international solidarity — map poorly onto Scott's record. His climate vetoes (including the Global Warming Solutions Act, overridden) contradict the climate-justice plank; his noncitizen-voting vetoes and RCV refusals contradict the participatory-democracy plank; his consistent preference for private, deregulated development over Act 250 protections contradicts any notion of social ownership. The closest behavioral convergence with SI's human-rights framing is his let-pass of H.849 (Act 87, 2026), enabling civil suits against government officials for federal constitutional violations — but it should be weighted cautiously: Scott permitted it reluctantly, stating it risked giving Vermonters "false hope" it would survive court challenge, and allowed it only after the Attorney General advised it was defensible. It is a permission, not an endorsement.
 
 ### Social Democrats USA (SDUSA)
 
