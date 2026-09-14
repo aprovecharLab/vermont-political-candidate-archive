@@ -9,6 +9,8 @@
 - **Phil Scott** (R) — Incumbent Governor, seeking a sixth term
 - **Amanda Janoo** (D) — Economist; founder, Wellbeing Economy Alliance of Vermont *(winner of the August 11 primary)*
 
+## Incumbent Record — Governor Phil Scott (2017–2026)
+
 ### Source Compilations
 
 | Date | Document | Description |
@@ -22,8 +24,6 @@
 |------|----------|-------------|
 | September 2026 | [Governor Scott's Record Through a Social Democratic Lens: Vetoes and Let-Passes](./scott-social-democratic-lens-veto-record.md) | Analyzes Scott's revealed governing behavior — vetoes and let-passes — against DSA, SDA, SI, and SDUSA tenets, using the same rubric as the primary comparison |
 | September 2026 | [Governor Scott's Record Through a Social Democratic Lens: Convergent Actions](./scott-social-democratic-lens-convergent-actions.md) | Companion counterpoint examining signed legislation, executive orders, and initiatives that partially align with social-democratic priorities, graded by evidence strength |
-
-## Incumbent Record — Governor Phil Scott (2017–2026)
 
 ## Democratic Primary — August 11, 2026
 
