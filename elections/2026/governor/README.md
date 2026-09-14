@@ -2,6 +2,15 @@
 
 # 2026 Vermont Gubernatorial Race
 
+## General Election — November 3, 2026
+
+### Candidates
+
+- **Phil Scott** (R) — Incumbent Governor, seeking a sixth term
+- **Amanda Janoo** (D) — Economist; founder, Wellbeing Economy Alliance of Vermont *(winner of the August 11 primary)*
+
+## Incumbent Record — Governor Phil Scott (2017–2026)
+
 ## Democratic Primary — August 11, 2026
 
 ### Analyses
@@ -15,14 +24,7 @@
 - **Aly Richards** (D) — Former CEO, Let's Grow Kids
 - **Amanda Janoo** (D) — Economist; founder, Wellbeing Economy Alliance of Vermont
 
-## General Election — November 3, 2026
 
-### Candidates
-
-- **Phil Scott** (R) — Incumbent Governor, seeking a sixth term
-- **Amanda Janoo** (D) — Economist; founder, Wellbeing Economy Alliance of Vermont *(winner of the August 11 primary)*
-
-## Incumbent Record — Governor Phil Scott (2017–2026)
 
 ### Source Compilations
 
