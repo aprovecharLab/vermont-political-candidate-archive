@@ -97,8 +97,7 @@ Scott's record is defensive rather than expansionary:
 
 - **SNAP Legal Action**: Protecting benefits that serve immigrant families among other vulnerable populations
 - **No major pro-immigrant legislation signed**: No sanctuary-city mandates, no path-to-status bills on his desk to sign
-
-His let-pass of H.849 (2026) — enabling civil suits against federal officials for constitutional violations — has indirect relevance to immigration enforcement accountability, though the bill's primary application is broader.
+- **H.849 let-pass (Act 87, 2026)**: Enabled civil suits against government officials for federal constitutional rights violations. This is Tier 3 evidence (permitted, not advocated): Scott allowed it to become law while stating it risked giving Vermonters "false hope" that it would survive court challenges, permitting it only after the Attorney General advised it was defensible. It registers as passive tolerance, not championing — the legislature and AG, not the governor, deserve the credit.
 
 This is Tier 2/3 territory (limited convergence). All four organizations advocate robust immigrant rights; Scott's record shows passive tolerance rather than active advocacy.
 
