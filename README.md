@@ -9,8 +9,8 @@ This repository exists to provide Vermont voters, journalists, organizers, and r
 ## Quick Links
 
 **2026 Election Cycle**
-- [Governor: Richards vs. Janoo Primary Analysis](./elections/2026/governor/richards-vs-janoo-primary-analysis.md)
 - [Governor: Phil Scott Incumbent Record & General Election Hub](./elections/2026/governor/) — veto/let-pass compilations, social democratic lens analyses, and general election materials for the Scott vs. Janoo race
+- [Governor: Richards vs. Janoo Primary Analysis](./elections/2026/governor/richards-vs-janoo-primary-analysis.md)
 
 **Organizations Compared**
 - [Organizations Comparative Analysis](./organizations/comparative_analysis.md)
